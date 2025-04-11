@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Oak Wood Study Table",
+  "features": [
+    "Solid oak wood construction",
+    "Two spacious drawers",
+    "Matte finish",
+    "Easy to assemble",
+    "Compact design"
+  ],
+  "description": "This Oak Wood Study Table is crafted with premium solid oak wood, offering durability and a clean matte finish that blends well with any room decor. Designed with functionality in mind, it includes two spacious drawers for storage and a compact footprint suitable for small and large spaces alike. Its simple assembly and sturdy build make it an excellent choice for versatile use, whether for studying, working, or organizing essentials.",
+  "customer_reviews": [
+    {
+      "review": "We bought this for our son's room and it's perfect. Sturdy enough for his daily schoolwork and the drawers help keep his books organized.",
+      "persona": "family"
+    },
+    {
+      "review": "As a college student in a small apartment, this table fits great in the corner and was super easy to put together on my own.",
+      "persona": "student"
+    },
+    {
+      "review": "Looks sleek in my home office and the quality of wood gives it a very premium feel. Drawers slide smoothly and it holds my monitor setup perfectly.",
+      "persona": "professional"
+    },
+    {
+      "review": "My daughter loves doing her art projects on this. It feels safe and stable, and fits all her supplies.",
+      "persona": "family"
+    },
+    {
+      "review": "Budget-friendly and just what I needed. Compact, yet functional enough to handle my laptop and notebooks.",
+      "persona": "student"
+    },
+    {
+      "review": "I was looking for something that balances aesthetics and practicality for video calls and meetings — this table nailed it.",
+      "persona": "professional"
+    }
+  ]
+}

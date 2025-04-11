@@ -1,0 +1,14 @@
+{
+    "family": {
+        "tone": "warm and practical",
+        "focus": "safety, durability, space for kids"
+    },
+    "student": {
+        "tone": "casual and budget-friendly",
+        "focus": "compact size, affordability, easy to assemble"
+    },
+    "professional": {
+        "tone": "formal and premium",
+        "focus": "elegant design, multi-purpose use, quality finish"
+    }
+}
