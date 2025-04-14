@@ -1,3 +1,8 @@
+<!-- 
+  This file serves as the frontend template for displaying product details in an e-commerce application. This is for demo purposes only, in your projects you would have your own frontend.
+  It includes sections for product images, descriptions, customer reviews, and persona-based content.
+  For demo purposes, this template is standalone and not integrated into a full e-commerce application.
+-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,9 +70,10 @@
           <form method="get" class="mt-4">
             <label for="persona" class="form-label">Select Persona:</label>
             <select name="persona" id="persona" class="form-select" onchange="this.form.submit()">
-              <option value="family" {% if persona == "family" %}selected{% endif %}>Family</option>
-              <option value="student" {% if persona == "student" %}selected{% endif %}>Student</option>
-              <option value="professional" {% if persona == "professional" %}selected{% endif %}>Professional</option>
+              <option value="family" {% if persona == "family" %}selected{% endif %}>Family(0.6)</option>
+              <option value="student" {% if persona == "student" %}selected{% endif %}>Student(0.9)</option>
+              <option value="professional-self" {% if persona == "professional-self" %}selected{% endif %}>Professional Self Purchase(0.9)</option>
+              <option value="professional-dorm" {% if persona == "professional-dorm" %}selected{% endif %}>Professional Purchase for College(0.3)</option>
             </select>
           </form>
           <button class="btn btn-primary mt-4">Add to Cart</button>
